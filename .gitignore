@@ -1,0 +1,12 @@
+# Created when the notebook runs
+outputs/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,22 @@
+name: willow-biochar
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26
+  - pandas
+  - scipy
+  - matplotlib
+  - openpyxl
+  - geopandas
+  - pyogrio
+  - rasterio
+  - jupyterlab
+  - pip
+  - pip:
+      - brightway2==2.4.7
+      - bw2data==3.6.6
+      - bw2calc==1.8.2
+      - bw2io==0.8.12
+# Tested with Python 3.11.15, numpy 1.26.4, pandas 3.0.1, scipy 1.17.1, matplotlib 3.10.8,
+# geopandas 1.1.2, rasterio 1.4.4, openpyxl 3.1.5 on Windows.

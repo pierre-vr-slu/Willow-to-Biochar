@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Willow biochar on Swedish arable land: code and input data"
+type: software
+license: CC-BY-SA-4.0
+authors:
+  - family-names: Van Rysselberge
+    given-names: P.
+  - family-names: Ericsson
+    given-names: N.
+  - family-names: Karlsson
+    given-names: J.
+  - family-names: Sundberg
+    given-names: C.
+  - family-names: Hansson
+    given-names: P.-A.
+preferred-citation:
+  type: article
+  title: "Climate impact of short-rotation coppice willow converted to biochar for soil application in Sweden: a spatially resolved, time-explicit assessment"
+  authors:
+    - family-names: Van Rysselberge
+      given-names: P.
+    - family-names: Ericsson
+      given-names: N.
+    - family-names: Karlsson
+      given-names: J.
+    - family-names: Sundberg
+      given-names: C.
+    - family-names: Hansson
+      given-names: P.-A.
